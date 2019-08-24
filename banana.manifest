@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 370928393
+CRC: 1854856006
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4f7af3808991597c7a8a1cddd93a73f8
+    Hash: 7c17279900864922ce9a5fbd079fff04
   TypeTreeHash:
     serializedVersion: 2
     Hash: 798811b7255c82b34a9f8780c2ce846a
@@ -24,5 +24,6 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 Assets:
-- Assets/3D_Assets/Banana_FBX/bananaFBX.fbx
+- Assets/3D_Assets/bundle/bananaFBX.fbx
+- Assets/3D_Assets/bundle/prefabs/banana.prefab
 Dependencies: []
