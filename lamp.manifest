@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2943757012
+CRC: 2339233937
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e40d03d637c3a9d1f2870ba81768a618
+    Hash: 612775b91cdb84b62cd3b812f65e0c82
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 798811b7255c82b34a9f8780c2ce846a
+    Hash: cb5cff3a1350143ce413b676b0fb473f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -17,6 +17,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 23
   Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
 - Class: 33
   Script: {instanceID: 0}
 - Class: 43
@@ -26,4 +28,5 @@ ClassTypes:
 Assets:
 - Assets/3D_Assets/bundle/LampFBX.fbx
 - Assets/3D_Assets/bundle/prefabs/lamp.prefab
-Dependencies: []
+Dependencies:
+- D:/Unity3d/ShaderWorks/Assets/AssetBundles/downloaded
