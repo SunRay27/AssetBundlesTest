@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3655325718
+CRC: 1324081628
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7adda3982e8aa2c2020f01ad434dd29e
+    Hash: 5d25c72e4b222537a0e1ec8f5b8c621f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 798811b7255c82b34a9f8780c2ce846a
+    Hash: cb5cff3a1350143ce413b676b0fb473f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -17,6 +17,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 23
   Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
 - Class: 33
   Script: {instanceID: 0}
 - Class: 43
@@ -24,5 +26,6 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 Assets:
+- Assets/3D_Assets/bundle/prefabs/bust.prefab
 - Assets/3D_Assets/bundle/bustFBX.fbx
 Dependencies: []
