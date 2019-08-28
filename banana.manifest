@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2589436646
+CRC: 608898268
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 45f2cd270b4f8913bda80d60b008f060
+    Hash: 34c725b04640c720fbc95c4b57dd7450
   TypeTreeHash:
     serializedVersion: 2
     Hash: cb5cff3a1350143ce413b676b0fb473f
@@ -28,5 +28,4 @@ ClassTypes:
 Assets:
 - Assets/3D_Assets/bundle/bananaFBX.fbx
 - Assets/3D_Assets/bundle/prefabs/banana.prefab
-Dependencies:
-- D:/Unity3d/ShaderWorks/Assets/AssetBundles/downloaded
+Dependencies: []

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3471358707
+CRC: 241020366
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bed85a221db52247498f188aaf9dcbc7
+    Hash: 50ab04b0608b27edb486c21d4f19c6e2
   TypeTreeHash:
     serializedVersion: 2
     Hash: cb5cff3a1350143ce413b676b0fb473f
@@ -28,5 +28,4 @@ ClassTypes:
 Assets:
 - Assets/3D_Assets/bundle/AppleFBX.fbx
 - Assets/3D_Assets/bundle/prefabs/apple.prefab
-Dependencies:
-- D:/Unity3d/ShaderWorks/Assets/AssetBundles/downloaded
+Dependencies: []

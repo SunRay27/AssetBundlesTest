@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1505934115
+CRC: 3597915516
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bfbbbf44ed3bb51e57f2efd29024975f
+    Hash: d87640e566db3f65d692879145b94338
   TypeTreeHash:
     serializedVersion: 2
     Hash: cb5cff3a1350143ce413b676b0fb473f
@@ -28,5 +28,4 @@ ClassTypes:
 Assets:
 - Assets/3D_Assets/bundle/GlassesFBX.fbx
 - Assets/3D_Assets/bundle/prefabs/glasses.prefab
-Dependencies:
-- D:/Unity3d/ShaderWorks/Assets/AssetBundles/downloaded
+Dependencies: []
