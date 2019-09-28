@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2019016775
+CRC: 3239397828
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 76bc66fb64f5ba067b010a1f8329a2e3
+    Hash: 5113e05074a3e8814e2364d6101793a5
   TypeTreeHash:
     serializedVersion: 2
     Hash: cb5cff3a1350143ce413b676b0fb473f
@@ -26,6 +26,6 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 Assets:
-- Assets/3D_Assets/bundle/AppleFBX.fbx
+- Assets/3D_Assets/bundle/newApple.fbx
 - Assets/3D_Assets/bundle/prefabs/apple.prefab
 Dependencies: []
