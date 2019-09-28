@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3453368526
+CRC: 1258105240
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 74155fa14e3d364859d1efe68a1f5242
+    Hash: d33876f9df426e0f04b9b3f33caa4966
   TypeTreeHash:
     serializedVersion: 2
     Hash: cb5cff3a1350143ce413b676b0fb473f
@@ -26,6 +26,6 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 Assets:
-- Assets/3D_Assets/bundle/GlassesFBX.fbx
 - Assets/3D_Assets/bundle/prefabs/glasses.prefab
+- Assets/3D_Assets/bundle/GlassesFBXSmooth.fbx
 Dependencies: []
