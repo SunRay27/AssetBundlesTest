@@ -1,19 +1,13 @@
 ManifestFileVersion: 0
-CRC: 1009838482
+CRC: 2349879845
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: banana
+      Name: bust
       Dependencies: {}
     Info_1:
       Name: apple
       Dependencies: {}
     Info_2:
       Name: glasses
-      Dependencies: {}
-    Info_3:
-      Name: lamp
-      Dependencies: {}
-    Info_4:
-      Name: bust
       Dependencies: {}
